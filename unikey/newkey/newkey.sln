@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 8.00
+﻿Microsoft Visual Studio Solution File, Format Version 8.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewKey", "NewKey.vcproj", "{68B9C849-93B6-46B0-AC7F-A6842BB3A3FD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C5FAE9A0-EF3C-48FE-9F21-7F4483FAE174} = {C5FAE9A0-EF3C-48FE-9F21-7F4483FAE174}
@@ -29,7 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtfio", "..\rtfio\rtfio.vcp
 	ProjectSection(ProjectDependencies) = postProject
 	EndProjectSection
 EndProject
-Global
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cvnss", "..\cvnss\vs\cvnss.vcxproj", "{960CA10A-67B3-4239-B8D7-37C4FDAF7EBA}"
+EndProjectGlobal
 	GlobalSection(SolutionConfiguration) = preSolution
 		Debug = Debug
 		Release = Release
