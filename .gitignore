@@ -1,0 +1,24 @@
+﻿# Visual Studio
+.vs/
+**/*.vcxproj.user
+**/*.suo
+**/*.user
+**/Backup/
+**/UpgradeLog*.htm
+
+# Build outputs
+**/Debug/
+**/Release/
+**/x64/
+**/Win32/
+
+# Accidental files from console pasting
++
+At
+Missing
+cd
+findstr
+git
+notepad
+powershell
+start
